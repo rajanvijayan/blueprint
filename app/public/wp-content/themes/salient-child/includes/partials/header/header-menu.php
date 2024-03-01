@@ -29,26 +29,7 @@ if( $nectar_header_format === 'centered-menu-bottom-bar' &&
 ?>
 
 <header id="top">
-	<div class="top-nav">
-		<div class="container">
-			<div class="row">
-				<div class="col span_6">
-					<ul class="left-menu">
-						<li><a href="#"><i class="fa fa-map-marker"></i> Ariyanur</a></li>
-						<li><a href="#"><i class="fa fa-phone"></i> 1800 890 9000, 0427-3509000</a></li>         
-						<li><a href="#"><i class="fa fa-envelope"></i> enquiry@vimshospitals.com</a></li>
-					</ul>
-				</div>
-				<div class="col span_6">
-					<ul class="right-menu">
-						<li><a href="#">Log In</a></li>
-						<li>|</li>
-						<li><a href="#">Sign Up</a></li>         
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+	<div class="top-nav"></div>
 	<div class="container">
 		<div class="row">
 			<div class="col span_3">

@@ -24,11 +24,11 @@ if ( 'false' === $disable_footer_copyright ) {
 
   <div class="row" id="copyright" data-layout="<?php echo esc_attr( $copyright_footer_layout ); ?>">
 	
-	<!-- <div class="container">
+	<div class="container">
 	   
-		<p>&copy; 2023 All Rights Reserved.Terms & Conditions Privacy Policy</p>
+		<p>&copy; <?php echo date( 'Y' );?> All Rights Reserved.</p>
 	
-	</div> -->
+	</div>
 	<!--/container-->
   </div><!--/row-->
 	<?php }
