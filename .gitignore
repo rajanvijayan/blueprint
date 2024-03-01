@@ -1,4 +1,17 @@
+# Folders #
+######################
 /public/wp-admin/
 /public/wp-includes/
 /public/wp-content/uploads/
 /logs/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
